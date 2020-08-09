@@ -1,2 +1,3 @@
 # rotem-heroku
-ROTEM Web Calc on Heroku 
+ROTEM Web Interpretation on Heroku 
+Streamlit app connected to heroku for interpreting ROTEM
